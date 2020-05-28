@@ -1,3 +1,7 @@
 hola soy cami y me gustan los gatos
-tambien me gusta ricardo
+<<<<<<< HEAD
+
+=======
+tambien me gusta ricky
+>>>>>>> modificotexto
 holaaaaa
